@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start:dev": "webpack-dev-server --entry-file=/app/index.html",
+    "start:dev": "webpack-dev-server",
     "serve": "live-server --entry-file=/app/index.html"
   },
   "repository": {

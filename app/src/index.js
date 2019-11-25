@@ -1,1 +1,1 @@
-console.log('djsgj')
+import {debris} from "../../debris/index"

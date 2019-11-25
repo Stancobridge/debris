@@ -90,10 +90,23 @@
 /*!**************************!*\
   !*** ./app/src/index.js ***!
   \**************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+/*! no exports provided */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-eval("console.log('djsgj')\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9hcHAvc3JjL2luZGV4LmpzLmpzIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vLy4vYXBwL3NyYy9pbmRleC5qcz83MDdhIl0sInNvdXJjZXNDb250ZW50IjpbImNvbnNvbGUubG9nKCdkanNnaicpXG4iXSwibWFwcGluZ3MiOiJBQUFBOyIsInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./app/src/index.js\n");
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _debris_index__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../debris/index */ \"./debris/index.js\");\n\n\n//# sourceURL=webpack:///./app/src/index.js?");
+
+/***/ }),
+
+/***/ "./debris/index.js":
+/*!*************************!*\
+  !*** ./debris/index.js ***!
+  \*************************/
+/*! exports provided: debris */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"debris\", function() { return debris; });\n/**\n * Core DebrisJS Framework\n * all modules are included here\n */\n\n//  Import Element module\n// import {DebrisElement} from \"./src/element/index\"\n\nfunction debris() {\n    alert(453)\n}\n\n\n//# sourceURL=webpack:///./debris/index.js?");
 
 /***/ })
 
