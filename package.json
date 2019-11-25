@@ -1,0 +1,26 @@
+{
+  "name": "debris",
+  "version": "0.0.1",
+  "description": "A Simple Javascript Folders and Files Scalfolding framework for Javascript Developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "webpack-dev-server --entry-file=/app/index.html",
+    "serve": "live-server --entry-file=/app/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stancobridge/debris.git"
+  },
+  "author": "Okechukwu Stanley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stancobridge/debris/issues"
+  },
+  "homepage": "https://github.com/Stancobridge/debris#readme",
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.9.0"
+  }
+}
