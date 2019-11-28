@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start:dev": "webpack-dev-server",
+    "start:debris" : "webpack -d --watch",
     "serve": "live-server --entry-file=/app/index.html"
   },
   "repository": {
